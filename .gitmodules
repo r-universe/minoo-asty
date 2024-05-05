@@ -5,6 +5,3 @@
 [submodule "CINNA"]
 	path = CINNA
 	url = https://github.com/cran/CINNA
-[submodule "IMMAN"]
-	path = IMMAN
-	url = https://git.bioconductor.org/packages/IMMAN
